@@ -21,35 +21,33 @@ header {
     border-bottom: 5px solid #7A8BA9;
 }
 
-.container {
+/* .container {
     border-radius: 10px;
     background: #7A8BA9;
     margin: 40px auto 80px auto;
     width: fit-content;
     padding: 20px;
-}
+} */
 
-.about {
-    width: 50vw;
-}
+/* .portfolio {
+    width: fit-content;
+} */
 
 .profilePic{
-    margin-right: 40px;
+    /* margin-right: 40px; */
     border-radius: 10px;
 }
 
-.contactMe {
+/* .contactMe {
     width: 50vw;
-}
+} */
 
 /* Portfolio images */
 img{
     margin-bottom: 20px;
 }
 
-/* .profileText{
-    max-width: 70ch;
-} */
+
 
 /* Footer Style */
 footer {
