@@ -1,16 +1,39 @@
 body{
-    background-image: url(image/missing_cleavland_2.jpg);
+    background-image: url(image/background.png);
     background-position: bottom left;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #142b18;
+    background-color: #ECF2FE;
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+    color: #ECF2FE;
+    border-bottom: 1px solid #ECF2FE;
 }
 
 .container {
-    background: powderblue;
+    border-radius: 10px;
+    background: #7A8BA9;
     margin: 40px auto 80px auto;
     width: fit-content;
+}
+
+.about {
+    width: 50vw;
+}
+
+.profilePic{
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+.contactMe {
+    width: 50vw;
 }
 
 /* Portfolio images */
@@ -18,13 +41,17 @@ img{
     margin-bottom: 20px;
 }
 
+/* .profileText{
+    max-width: 70ch;
+} */
+
 /* Footer Style */
 footer {
     position: fixed;
     bottom: 0;
     height: 40px;
     width: 100vw;
-    background: darkslategray;
+    background: #0E0D59;
     text-align: center;
 }
 
