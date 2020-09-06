@@ -1,6 +1,15 @@
+body{
+    background-image: url(image/missing_cleavland_2.jpg);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #142b18;
+}
+
 .container {
     background: powderblue;
-    margin: 40px auto;
+    margin: 40px auto 80px auto;
     width: fit-content;
 }
 
