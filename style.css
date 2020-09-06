@@ -1,0 +1,25 @@
+.container {
+    background: powderblue;
+    margin: 40px auto;
+    width: fit-content;
+}
+
+/* Portfolio images */
+img{
+    margin-bottom: 20px;
+}
+
+/* Footer Style */
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    width: 100vw;
+    background: darkslategray;
+    text-align: center;
+}
+
+.copyRight p {
+    color: white;
+    padding: 10px;
+}
