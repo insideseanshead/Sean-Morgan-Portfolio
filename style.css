@@ -9,6 +9,7 @@ body{
 
 h1{
     font-family: 'Roboto Condensed', sans-serif;
+    color: #ECF2FE
 }
 
 h2 {
@@ -16,11 +17,16 @@ h2 {
     border-bottom: 1px solid #ECF2FE;
 }
 
+header {
+    border-bottom: 5px solid #7A8BA9;
+}
+
 .container {
     border-radius: 10px;
     background: #7A8BA9;
     margin: 40px auto 80px auto;
     width: fit-content;
+    padding: 20px;
 }
 
 .about {
@@ -51,7 +57,8 @@ footer {
     bottom: 0;
     height: 40px;
     width: 100vw;
-    background: #0E0D59;
+    background: #7A8BA9;
+    border-top: 1px solid #0E0D59;
     text-align: center;
 }
 
