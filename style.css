@@ -21,26 +21,9 @@ header {
     border-bottom: 5px solid #7A8BA9;
 }
 
-/* .container {
-    border-radius: 10px;
-    background: #7A8BA9;
-    margin: 40px auto 80px auto;
-    width: fit-content;
-    padding: 20px;
-} */
-
-/* .portfolio {
-    width: fit-content;
-} */
-
 .profilePic{
-    /* margin-right: 40px; */
     border-radius: 10px;
 }
-
-/* .contactMe {
-    width: 50vw;
-} */
 
 /* Portfolio images */
 img{
