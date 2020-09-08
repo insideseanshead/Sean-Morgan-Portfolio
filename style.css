@@ -21,8 +21,9 @@ header {
     border-bottom: 5px solid #7A8BA9;
 }
 
-.profilePic{
-    border-radius: 10px;
+.about img {
+    width: 200px;
+    margin-bottom: 0px;
 }
 
 /* Portfolio images */
