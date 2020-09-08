@@ -5,24 +5,27 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-color: #ECF2FE;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    font-family: 'Roboto Condensed', sans-serif;
     color: #7A8BA9;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 36px;
 }
 
 h2 {
     color: #7A8BA9;
+    font-family: 'Open Sans Condensed', sans-serif;
     border-bottom: 1px solid #7A8BA9;
 }
 
 header {
-    border-bottom: 5px solid #7A8BA9;
+    border-bottom: 2px solid #7A8BA9;
 }
 
 .about img {
-    width: 200px;
+    width: 300px;
     margin-bottom: 0px;
 }
 
@@ -35,16 +38,9 @@ img{
 
 /* Footer Style */
 footer {
-    position: fixed;
-    bottom: 0;
-    height: 40px;
-    width: 100vw;
     background: #7A8BA9;
-    border-top: 1px solid #0E0D59;
-    text-align: center;
 }
 
-.copyRight p {
-    color: white;
-    padding: 10px;
+footer a{
+    color:#ECF2FE; 
 }
