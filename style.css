@@ -9,12 +9,12 @@ body{
 
 h1{
     font-family: 'Roboto Condensed', sans-serif;
-    color: #ECF2FE
+    color: #7A8BA9;
 }
 
 h2 {
-    color: #ECF2FE;
-    border-bottom: 1px solid #ECF2FE;
+    color: #7A8BA9;
+    border-bottom: 1px solid #7A8BA9;
 }
 
 header {
