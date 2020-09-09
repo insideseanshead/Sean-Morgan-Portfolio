@@ -3,7 +3,7 @@
 ## Hello World
 Coming from the illustration world I know the importance of a good portfolio site. In fact I have made a few in my time. Each time striving to teach myself something new. This time I set out to make a responsive site with bootstrap. 
 
-![Screen Shot of deployed Site](/images/screenshot.png)
+![Screen Shot](/image/screenshot.png)
 
 This will be the home to links for my deployed apps and sites. 
 
