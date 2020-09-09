@@ -1,3 +1,4 @@
+/* style of background and basic font */
 body{
     background-image: url(image/background.png);
     background-position: bottom left;
@@ -8,24 +9,32 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
-    color: #7A8BA9;
-    font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 36px;
-}
-
-h2 {
-    color: #7A8BA9;
-    font-family: 'Open Sans Condensed', sans-serif;
-    border-bottom: 1px solid #7A8BA9;
-}
+/* Header Styling */
 
 header {
     border-bottom: 2px solid #7A8BA9;
 }
 
+/* h1 and h2 color and font */
+h1, h2 {
+    color: #7A8BA9;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1{
+    color: #7A8BA9;
+    font-size: 36px;
+}
+
+h2 {
+    color: #7A8BA9;
+    
+    border-bottom: 1px solid #7A8BA9;
+}
+
+/* index img styling */
 .about img {
-    width: 300px;
+    width: 250px;
     margin-bottom: 0px;
 }
 
