@@ -1,7 +1,7 @@
 # Sean-Morgan-Portfolio
 
 ## Hello World
-Coming from the illustration world I know the importance of a good portfolio site. In fact I have made a few in my time. Each time striving to teach myself something new. This time I set out to make a responsive site with bootstrap. 
+Coming from the illustration world I know the importance of a good portfolio site. In fact I have made a few in my time. Each time striving to teach myself something new. This time I set out to make a responsive site with bootstrap. [Deployed site](https://insideseanshead.github.io/Sean-Morgan-Portfolio/)
 
 ![Screen Shot](/image/screenshot.png)
 
