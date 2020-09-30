@@ -53,3 +53,8 @@ footer {
 footer a{
     color:#ECF2FE; 
 }
+
+/* List style */
+li {
+    list-style-type: none;
+}
